@@ -1,1 +1,1 @@
-# coding-project-template
+# practice-project-myapp
